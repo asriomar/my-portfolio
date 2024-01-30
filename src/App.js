@@ -27,14 +27,14 @@ function App() {
 
       <section className="max-w-screen-md mx-auto my-8 p-8 bg-white shadow-md ">
         <h2 className="text-3xl font-bold mb-4  ">About Me</h2>
-        <p className="text-gray-700 m-2 tracking-wide text-justify text-2xl">
+        <p className="text-gray-700 m-2 tracking-wide md:text-justify text-2xl">
           👋 Hi there! I'm{" "}
           <strong className="text-orange-500"> Mohd Asri </strong>, an aspiring
           Front-End Developer fueled by a passion for crafting engaging and
           user-centric web experiences.
         </p>
 
-        <p className="text-gray-700 m-4 tracking-wide text-justify text-2xl">
+        <p className="text-gray-700 m-4 tracking-wide md:text-justify text-2xl">
           🚀 I'm on the exciting journey of translating my love for coding into
           practical skills, and I'm thrilled about the endless possibilities
           that web development offers.
