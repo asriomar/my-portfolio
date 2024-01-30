@@ -13,7 +13,7 @@ function App() {
             src="https://i.pinimg.com/564x/0f/f9/8a/0ff98abc7a109bbb3846d66c4fba8d13.jpg"
             alt="profile-pic"
           />
-          <h1 className="text-4xl font-bold text-center m-2 typewriter">
+          <h1 className="md:text-4xl font-bold text-center m-2 typewriter">
             Mohd Asri bin Omar
           </h1>
           <img className='m-3' src='https://cdn-icons-png.flaticon.com/128/8287/8287203.png' alt='malaysia-flag'/>
