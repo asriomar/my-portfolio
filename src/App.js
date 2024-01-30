@@ -29,7 +29,7 @@ function App() {
         <h2 className="text-3xl font-bold mb-4  ">About Me</h2>
         <p className="text-gray-700 m-2 tracking-wide md:text-justify text-2xl">
           👋 Hi there! I'm{" "}
-          <strong className="text-orange-500"> Mohd Asri </strong>, an aspiring
+          <strong className="text-orange-500"> Mohd Asri, </strong> an aspiring
           Front-End Developer fueled by a passion for crafting engaging and
           user-centric web experiences.
         </p>
