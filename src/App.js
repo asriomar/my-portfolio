@@ -84,7 +84,16 @@ function App() {
     
 <svg role="img" width="64" height="64" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <title>Chakra UI</title><path d="M12 0C5.352 0 0 5.352 0 12s5.352 12 12 12 12-5.352 12-12S18.648 0 12 0zm2.8 4.333c.13-.004.248.136.171.278l-3.044 5.58a.187.187 0 00.164.276h5.26c.17 0 .252.207.128.323l-9.22 8.605c-.165.154-.41-.063-.278-.246l4.364-6.021a.187.187 0 00-.151-.296H6.627a.187.187 0 01-.131-.32l8.18-8.123a.182.182 0 01.125-.056z"/></svg>
 
-
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 54 33" width="64" height="64">
+        <g clip-path="url(#prefix__clip0)">
+            <path fill="#38bdf8" fill-rule="evenodd" d="M27 0c-7.2 0-11.7 3.6-13.5 10.8 2.7-3.6 5.85-4.95 9.45-4.05 2.054.513 3.522 2.004 5.147 3.653C30.744 13.09 33.808 16.2 40.5 16.2c7.2 0 11.7-3.6 13.5-10.8-2.7 3.6-5.85 4.95-9.45 4.05-2.054-.513-3.522-2.004-5.147-3.653C36.756 3.11 33.692 0 27 0zM13.5 16.2C6.3 16.2 1.8 19.8 0 27c2.7-3.6 5.85-4.95 9.45-4.05 2.054.514 3.522 2.004 5.147 3.653C17.244 29.29 20.308 32.4 27 32.4c7.2 0 11.7-3.6 13.5-10.8-2.7 3.6-5.85 4.95-9.45 4.05-2.054-.513-3.522-2.004-5.147-3.653C23.256 19.31 20.192 16.2 13.5 16.2z" clip-rule="evenodd"/>
+        </g>
+        <defs>
+            <clipPath id="prefix__clip0">
+                <path fill="#fff" d="M0 0h54v32.4H0z"/>
+            </clipPath>
+        </defs>
+    </svg>
     
 </div>
 
@@ -110,16 +119,7 @@ function App() {
           <div className='text-base text-mono w-[64] bg-gray-100 justify-self-center p-4 shadow-lg my-2 text-center  rounded-lg'><a href="https://shopping-cart-lovat-five.vercel.app/"> Shopping Cart</a></div>
           <div className='text-base text-mono w-[64] bg-indigo-100 justify-self-center p-4 shadow-lg my-2 text-center  rounded-lg'><a href="https://paracetamol-calculator.vercel.app/"> Paracetamol Calculator</a></div>
           <div className='text-base text-mono w-[64] bg-gray-100 justify-self-center p-4 shadow-lg my-2 text-center  rounded-lg'><a href="https://text-to-speech-converter-omega.vercel.app/"> Text to Speech</a></div>
-         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 54 33" width="64" height="64">
-        <g clip-path="url(#prefix__clip0)">
-            <path fill="#38bdf8" fill-rule="evenodd" d="M27 0c-7.2 0-11.7 3.6-13.5 10.8 2.7-3.6 5.85-4.95 9.45-4.05 2.054.513 3.522 2.004 5.147 3.653C30.744 13.09 33.808 16.2 40.5 16.2c7.2 0 11.7-3.6 13.5-10.8-2.7 3.6-5.85 4.95-9.45 4.05-2.054-.513-3.522-2.004-5.147-3.653C36.756 3.11 33.692 0 27 0zM13.5 16.2C6.3 16.2 1.8 19.8 0 27c2.7-3.6 5.85-4.95 9.45-4.05 2.054.514 3.522 2.004 5.147 3.653C17.244 29.29 20.308 32.4 27 32.4c7.2 0 11.7-3.6 13.5-10.8-2.7 3.6-5.85 4.95-9.45 4.05-2.054-.513-3.522-2.004-5.147-3.653C23.256 19.31 20.192 16.2 13.5 16.2z" clip-rule="evenodd"/>
-        </g>
-        <defs>
-            <clipPath id="prefix__clip0">
-                <path fill="#fff" d="M0 0h54v32.4H0z"/>
-            </clipPath>
-        </defs>
-    </svg>
+         
         </div>
         {/*<ul className="list-none">
           <li className="mb-2">
