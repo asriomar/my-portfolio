@@ -120,6 +120,7 @@ function App() {
           <div className='text-base text-mono w-[64] bg-indigo-100 justify-self-center p-4 shadow-lg my-2 text-center  rounded-lg'><a href="https://paracetamol-calculator.vercel.app/"> Paracetamol Calculator</a></div>
           <div className='text-base text-mono w-[64] bg-gray-100 justify-self-center p-4 shadow-lg my-2 text-center  rounded-lg'><a href="https://text-to-speech-converter-omega.vercel.app/"> Text to Speech</a></div>
         <div className='text-base text-mono w-[64] bg-gray-100 justify-self-center p-4 shadow-lg my-2 text-center  rounded-lg'><a href="https://budget-tracker-sable.vercel.app/budget/"> Budget Tracker</a></div>
+         <div className='text-base text-mono w-[64] bg-gray-100 justify-self-center p-4 shadow-lg my-2 text-center  rounded-lg'><a href="https://age-calculator-omega-taupe.vercel.app/">Age Calculator</a></div>
          
          
         </div>
