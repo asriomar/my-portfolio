@@ -114,11 +114,13 @@ function App() {
         <h2 className="text-3xl font-bold mb-4">Projects</h2>
         <div className='grid md:grid-cols-3 gap-2 '>
           <div className='text-base text-mono w-[64] bg-indigo-100 justify-self-center p-4 shadow-lg my-2 text-center  rounded-lg'><a href="https://to-do-sort.vercel.app/"> Job To Do and Sort App</a></div>
-          <div className='text-base text-mono w-[64] bg-gray-100 justify-self-center p-4 shadow-lg my-2 text-center  rounded-lg'><a href="https://react-quiz-app-psi-six.vercel.app/"> Quizz App</a></div>
+          <div className='text-base text-mono w-[64] bg-gray-100 justify-self-center p-4 shadow-lg my-2 text-center  rounded-lg'><a href="https://react-quiz-app-psi-six.vercel.app/"> Quiz App</a></div>
           <div className='text-base text-mono w-[64] bg-indigo-100 justify-self-center p-4 shadow-lg my-2 text-center  rounded-lg'><a href="https://student-registration-pied.vercel.app/"> Student Registration</a></div>
           <div className='text-base text-mono w-[64] bg-gray-100 justify-self-center p-4 shadow-lg my-2 text-center  rounded-lg'><a href="https://shopping-cart-lovat-five.vercel.app/"> Shopping Cart</a></div>
           <div className='text-base text-mono w-[64] bg-indigo-100 justify-self-center p-4 shadow-lg my-2 text-center  rounded-lg'><a href="https://paracetamol-calculator.vercel.app/"> Paracetamol Calculator</a></div>
           <div className='text-base text-mono w-[64] bg-gray-100 justify-self-center p-4 shadow-lg my-2 text-center  rounded-lg'><a href="https://text-to-speech-converter-omega.vercel.app/"> Text to Speech</a></div>
+        <div className='text-base text-mono w-[64] bg-gray-100 justify-self-center p-4 shadow-lg my-2 text-center  rounded-lg'><a href="https://budget-tracker-sable.vercel.app/budget/"> Budget Tracker</a></div>
+         
          
         </div>
         {/*<ul className="list-none">
